@@ -26,7 +26,7 @@ The project is a Weather Forecast in real time, using API https://openweathermap
 
 ## Run Project in you Navigator
 
-https://luanrebuli.github.io/weather-ap/
+https://luanrebuli.github.io/weather-app/
 
 ## Contributors
 
